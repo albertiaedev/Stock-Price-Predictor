@@ -79,3 +79,14 @@ p.c {
   font-weight: 800;
   text-align: left;
 }
+
+.predict {
+  display: block;
+  text-align: left;
+  text-decoration: none;
+  padding-top: 20px;
+  padding-left: 80px;
+  padding-bottom: 20px;
+  background: #383b42;
+  margin: auto 30px;
+}
