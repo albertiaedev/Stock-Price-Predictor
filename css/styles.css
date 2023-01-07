@@ -67,3 +67,10 @@ a.c {
   text-align: right;
   padding-right: 30px;
 }
+
+p.c {
+  display: block;
+  text-align: right;
+  padding-right: 60px;
+  padding-bottom: 60px;
+}
