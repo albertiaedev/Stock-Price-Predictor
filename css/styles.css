@@ -38,3 +38,11 @@ h2.a {
   padding-left: 50px;
   padding-right: 50px;
 }
+
+p.a {
+  text-align: center;
+  padding-top: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 60px;
+}
