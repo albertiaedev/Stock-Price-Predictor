@@ -60,3 +60,10 @@ p.b {
   padding-left: 60px;
   padding-bottom: 60px;
 }
+
+a.c {
+  display: block;
+  font-weight: bolder;
+  text-align: right;
+  padding-right: 30px;
+}
