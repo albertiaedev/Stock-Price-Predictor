@@ -1,1 +1,12 @@
 /*INDEX*/
+
+* {
+  background: #0448d1;
+  background-image: url("../images/stocks.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: sans-serif;
+  color: #fff;
+}
