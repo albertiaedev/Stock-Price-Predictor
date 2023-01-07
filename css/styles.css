@@ -32,3 +32,9 @@ h2 {
   padding-left: 30px;
   padding-bottom: 15px;
 }
+
+h2.a {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
